@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=sayedhmumit)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [(https://github.com/ryo-ma/github-profile-trophy)](https://github-profile-trophy.vercel.app/?sayedhmumit=ryo-ma&no-bg=true)
 **sayedhmumit/sayedhmumit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
