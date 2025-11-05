@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!-- [(https://github.com/ryo-ma/github-profile-trophy)](https://github-profile-trophy.vercel.app/?sayedhmumit=ryo-ma&no-bg=true)
-**sayedhmumit/sayedhmumit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![trophy](https://github-profile-trophy.vercel.app/?username=sayedhmumit&no-bg=true)](https://github.com/sayedhmumit/github-profile-trophy)
 
-Here are some ideas to get you started:
-
-https://github-profile-trophy.vercel.app/?sayedhmumit=ryo-ma&no-bg=true
+**sayedhmumit/sayedhmumit** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
