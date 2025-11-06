@@ -4,7 +4,6 @@
 ------------------------
 [![trophy](https://github-profile-trophy.vercel.app/?username=sayedhmumit&no-bg=true)](https://github.com/sayedhmumit/github-profile-trophy)
 
-![Fourier Analysis](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
 ![Physics](https://img.shields.io/badge/Physics-0077C8?style=for-the-badge&logo=none&logoColor=white)
