@@ -12,4 +12,3 @@
 ![Molecular Biology](https://img.shields.io/badge/Molecular%20Biology-FF6F61?style=for-the-badge&logo=none&logoColor=white)
 
 
-**sayedhmumit/sayedhmumit** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
