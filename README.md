@@ -1,6 +1,6 @@
 ## Hello! This is Mumit👋
 ------------------------
-**Acedemic Panelist, The Cambridge Panel Academic**
+**Remote Panelist, The Cambridge Panel : Academic**
 ------------------------
 
 
