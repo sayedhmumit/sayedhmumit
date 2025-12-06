@@ -1,6 +1,7 @@
 ## Hello! This is Mumit👋
 ------------------------
 **Remote Panelist, The Cambridge Panel : Academic**
+**Junior Researcher, Bangladesh Bioscience Researc Group (BBRG)**
 ------------------------
 
 
