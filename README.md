@@ -2,7 +2,7 @@
 ------------------------
 **Remote Panelist, The Cambridge Panel : Academic**
 ------------------------
-**Junior Researcher, Bangladesh Bioscience Researc Group (BBRG)**
+**Researcher, Department of Biophysics, Bangladesh Bioscience Researc Group (BBRG)**
 ------------------------
 
 
