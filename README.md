@@ -1,6 +1,6 @@
 ## Hello! This is Mumit👋
 ------------------------
-**Remote Panelist, The Cambridge Panel : Academic**
+**Academic Contributor, The Cambridge Panel : Academic**
 ------------------------
 **Researcher, Department of Biophysics, Bangladesh Bioscience Researc Group (BBRG)**
 ------------------------
@@ -11,4 +11,3 @@
 ![Research](https://img.shields.io/badge/Research-4CAF50?style=for-the-badge&logo=none&logoColor=white)
 ![Biochemistry](https://img.shields.io/badge/Biochemistry-6F42C1?style=for-the-badge&logo=none&logoColor=white)
 ![Research](https://img.shields.io/badge/Research-4CAF50?style=for-the-badge&logo=none&logoColor=white)
-![Molecular Biology](https://img.shields.io/badge/Molecular%20Biology-FF6F61?style=for-the-badge&logo=none&logoColor=white)
