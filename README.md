@@ -2,7 +2,7 @@
 ------------------------
 **Academic Contributor, The Cambridge Panel : Academic**
 ------------------------
-**Researcher, Department of Biophysics, Bangladesh Bioscience Researc Group (BBRG)**
+**Researcher, Department of Biophysics, Bangladesh Bioscience Research Group (BBRG)**
 ------------------------
 
 
