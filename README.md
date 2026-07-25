@@ -2,7 +2,7 @@
 ------------------------
 **Academic Contributor, The Cambridge Panel : Academic**
 ------------------------
-![](https://komarev.com/ghpvc/?username=sayedhmumit)
+![](https://komarev.com/ghpvc/?username=sayedhmumit&abbreviated=true)
 ------------------------
 
 
