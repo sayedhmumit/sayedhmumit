@@ -2,7 +2,7 @@
 ------------------------
 **Academic Contributor, The Cambridge Panel : Academic**
 ------------------------
-**Researcher, Department of Biophysics, Bangladesh Bioscience Research Group (BBRG)**
+![](https://komarev.com/ghpvc/?username=sayedhmumit)
 ------------------------
 
 
